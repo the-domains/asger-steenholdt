@@ -12,3 +12,7 @@ color:
     - '#D0E4F2'
 layout_spectrum: 0.5888244851958007
 name: Asger Steenholdt
+navigation:
+  - name: '1'
+    url: www.asgersteenholdt.com
+    type: external
